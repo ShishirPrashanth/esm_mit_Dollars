@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "707769519565",
+    "project_id": "psycle-bd020",
+    "storage_bucket": "psycle-bd020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707769519565:android:eaeac56567c3e0d408c884",
+        "android_client_info": {
+          "package_name": "com.example.flutter_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707769519565-444rin0rl30t1a215p5k7dliqg9drijg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxpcQuM_aJfDym5qgL0dYR-ZiLvEE87bo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707769519565-444rin0rl30t1a215p5k7dliqg9drijg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
